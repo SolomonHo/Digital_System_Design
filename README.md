@@ -16,7 +16,7 @@ Instead of using the conventional inverse matrix method, this design applies the
    Convergence is determined by comparing the result of the current cycle with the previous one, rather than forcing every coefficient to iterate up to a large fixed number. This effectively reduces the number of iterations.
 
 <br><br>
-# HW1 - ALU & 8x8 Register File
+## HW1 - ALU & 8x8 Register File
 
 1. ALU :
 ALU implemented using `assign` and `always` styles.  
